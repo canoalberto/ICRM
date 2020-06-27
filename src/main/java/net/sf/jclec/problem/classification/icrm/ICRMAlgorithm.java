@@ -22,6 +22,8 @@ import org.apache.commons.configuration.Configuration;
 /**
  * ICRM: An Interpretable Classification Rule Mining algorithm
  * 
+ * A. Cano, A. Zafra, and S. Ventura. An Interpretable Classification Rule Mining Algorithm. Information Sciences, vol. 240, 1-20, 2013.
+ * 
  * @author Alberto Cano 
  * @author Amelia Zafra
  * @author Sebastian Ventura

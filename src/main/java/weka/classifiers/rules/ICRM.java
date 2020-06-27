@@ -146,9 +146,9 @@ public class ICRM extends ClassificationAlgorithm
 		result = new TechnicalInformation(Type.ARTICLE);
 		result.setValue(Field.AUTHOR, "A. Cano and A. Zafra and S. Ventura");
 		result.setValue(Field.TITLE, "An Interpretable Classification Rule Mining Algorithm");
-		result.setValue(Field.JOURNAL,"Information Sciences");
-		result.setValue(Field.YEAR,"2013");
-		result.setValue(Field.VOLUME,"120");
+		result.setValue(Field.JOURNAL, "Information Sciences");
+		result.setValue(Field.YEAR, "2013");
+		result.setValue(Field.VOLUME, "240");
 		result.setValue(Field.PAGES, "1-20");
 
 		return result;
